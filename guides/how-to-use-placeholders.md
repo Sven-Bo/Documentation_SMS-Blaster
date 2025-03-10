@@ -76,11 +76,33 @@ This means if you have the same placeholder name in both number-specific and glo
 
 ### Common Questions
 
-**Q: What happens if a placeholder doesn't have a value?** A: The system follows the resolution flow: number-specific → global → fallback → empty string. If no value is found at any step, the placeholder is replaced with an empty string.
+<details>
 
-**Q: How many placeholders can I use in one message?** A: You can use as many as you need, but remember that messages have character limits.
+<summary><strong>What happens if a placeholder doesn't have a value?</strong></summary>
 
-**Q: Can I use the same placeholder name for both global and number-specific?** A: Yes. In this case, the number-specific value will be used for that recipient, while others will get the global value.
+he system follows the resolution flow: number-specific → global → fallback → empty string. If no value is found at any step, the placeholder is replaced with an empty string.
+
+</details>
+
+<details>
+
+<summary><strong>How many placeholders can I use in one message?</strong> </summary>
+
+You can use as many as you need, but remember that messages have character limits.
+
+</details>
+
+<details>
+
+<summary><strong>Can I use the same placeholder name for both global and number-specific?</strong></summary>
+
+Yes. In this case, the number-specific value will be used for that recipient, while others will get the global value.
+
+</details>
+
+
+
+
 
 
 
