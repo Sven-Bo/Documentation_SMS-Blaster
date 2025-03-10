@@ -4,4 +4,4 @@ To add line breaks or paragraphs in your SMS messages, simply use the `Alt + Ent
 
 **Example:**
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>

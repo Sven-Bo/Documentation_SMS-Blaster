@@ -10,4 +10,4 @@ In such cases:
     * The SMS Blaster includes a default random delay to make bulk messages less conspicuous. You can increase this delay in the settings if necessary. However, note that longer delays will result in extended runtimes for bulk campaigns and may not guarantee delivery.
 
     **Delay Settings Example:**\
-    ![](../.gitbook/assets/image.png)
+    ![](<../.gitbook/assets/image (4).png>)

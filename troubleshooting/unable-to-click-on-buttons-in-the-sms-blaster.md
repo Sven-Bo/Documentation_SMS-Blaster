@@ -10,13 +10,13 @@ If you’re unable to click on any buttons in the **SMS Blaster** file, the issu
 4. If you see the message "This file came from another computer and might be blocked to help protect this computer," check the box labeled **Unblock**.
 5. Click **Apply** and then **OK**.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2: Check if You Clicked "Enable Content"**
 
 When opening the file, you should be prompted to "Enable Content". Make sure to click this option. If macros are not enabled, the buttons in the SMS Blaster will not work.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3: Manually Enabling Macros (if you didn’t receive the prompt)**
 
@@ -37,4 +37,4 @@ If you didn’t receive the "Enable Macros" prompt when opening the file, it cou
 **Note**: Keep in mind that these are global macro settings. By choosing "Enable VBA macros," macros will automatically run for any Excel file you open, not just the SMS Blaster. Use this option with caution, especially when working with files from untrusted sources.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
