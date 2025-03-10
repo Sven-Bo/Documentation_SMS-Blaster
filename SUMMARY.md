@@ -14,16 +14,13 @@
 * [Tips for writing effective SMS with SMS Blaster](guides/tips-for-writing-effective-sms-with-sms-blaster.md)
 * [Settings Overview](guides/settings-overview.md)
 * [How to use placeholders](guides/how-to-use-placeholders.md)
+* [How to use the phone number validator](guides/how-to-use-the-phone-number-validator.md)
 * [How to use the phone number converter](guides/how-to-use-the-phone-number-converter.md)
 * [How to send the same SMS to multiple receivers](guides/how-to-send-the-same-sms-to-multiple-receivers.md)
 * [How to insert line breaks and paragraphs in messages](guides/how-to-insert-line-breaks-and-paragraphs-in-messages.md)
 * [How to send SMS from two or more cell phones](guides/how-to-send-sms-from-two-or-more-cell-phones.md)
 * [How to set custom delays between messages](guides/how-to-set-custom-delays-between-messages.md)
 * [How does SMS Blaster send SMS from my phone, and what’s the cost?](guides/how-does-sms-blaster-send-sms-from-my-phone-and-whats-the-cost.md)
-
-***
-
-* [How to use the phone number validator](how-to-use-the-phone-number-validator.md)
 
 ## 🛠️ Troubleshooting
 
