@@ -1,5 +1,9 @@
 # How to use placeholders
 
+{% embed url="https://iframe.mediadelivery.net/play/289332/d65deb5b-9f40-46d9-894c-91556331db73" %}
+Watch the placeholder tutorial
+{% endembed %}
+
 ### What Are Placeholders?
 
 Placeholders are special tags in your messages that get replaced with real information when you send your message. They make your messages more personal and relevant to each recipient.
