@@ -84,7 +84,7 @@ This means if you have the same placeholder name in both number-specific and glo
 
 <summary><strong>What happens if a placeholder doesn't have a value?</strong></summary>
 
-he system follows the resolution flow: number-specific → global → fallback → empty string. If no value is found at any step, the placeholder is replaced with an empty string.
+The system follows the resolution flow: number-specific → global → fallback → empty string. If no value is found at any step, the placeholder is replaced with an empty string.
 
 </details>
 
