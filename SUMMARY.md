@@ -29,6 +29,10 @@
 * [Unable to click on buttons in the SMS Blaster](troubleshooting/unable-to-click-on-buttons-in-the-sms-blaster.md)
 * [Pushbullet PRO Account Upgrade Issues](troubleshooting/pushbullet-pro-account-upgrade-issues.md)
 
+***
+
+* [Resolving the “OLE Automation Error”](resolving-the-ole-automation-error.md)
+
 ## ⁉️ FAQ
 
 * [Why can't I find the Pushbullet app in the App Store?](faq/why-cant-i-find-the-pushbullet-app-in-the-app-store.md)
