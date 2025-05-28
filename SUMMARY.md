@@ -44,3 +44,4 @@
 * [Does SMS Blaster work with my Excel version and mobile phone?](faq/does-sms-blaster-work-with-my-excel-version-and-mobile-phone.md)
 * [Can I view or modify the VBA code?](faq/can-i-view-or-modify-the-vba-code.md)
 * [How do I get a refund?](faq/how-do-i-get-a-refund.md)
+* [How to cancel your subscription](faq/how-to-cancel-your-subscription.md)
