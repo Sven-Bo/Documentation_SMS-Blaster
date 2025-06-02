@@ -12,6 +12,8 @@
 ## 📚 Guides
 
 * [Tips for writing effective SMS with SMS Blaster](guides/tips-for-writing-effective-sms-with-sms-blaster.md)
+* [SMS best practices for deliverability](guides/sms-best-practices-for-deliverability.md)
+* [How do I warm up my SIM card](guides/how-do-i-warm-up-my-sim-card.md)
 * [Settings Overview](guides/settings-overview.md)
 * [How to use placeholders](guides/how-to-use-placeholders.md)
 * [How to use the phone number validator](guides/how-to-use-the-phone-number-validator.md)
@@ -20,7 +22,7 @@
 * [How to insert line breaks and paragraphs in messages](guides/how-to-insert-line-breaks-and-paragraphs-in-messages.md)
 * [How to send SMS from two or more cell phones](guides/how-to-send-sms-from-two-or-more-cell-phones.md)
 * [How to set custom delays between messages](guides/how-to-set-custom-delays-between-messages.md)
-* [How does SMS Blaster send SMS from my phone, and what’s the cost?](guides/how-does-sms-blaster-send-sms-from-my-phone-and-whats-the-cost.md)
+* [How does SMS Blaster send SMS from my phone, and what’s the cost](guides/how-does-sms-blaster-send-sms-from-my-phone-and-whats-the-cost.md)
 
 ## 🛠️ Troubleshooting
 
@@ -43,5 +45,8 @@
 * [Do I still need Pushbullet Pro if I have the SMS Blaster?](faq/do-i-still-need-pushbullet-pro-if-i-have-the-sms-blaster.md)
 * [Does SMS Blaster work with my Excel version and mobile phone?](faq/does-sms-blaster-work-with-my-excel-version-and-mobile-phone.md)
 * [Can I view or modify the VBA code?](faq/can-i-view-or-modify-the-vba-code.md)
+* [Do I need to register for A2P?](faq/do-i-need-to-register-for-a2p.md)
+* [Can I send unlimited texts?](faq/can-i-send-unlimited-texts.md)
+* [Can I use an eSIM?](faq/can-i-use-an-esim.md)
+* [How can I cancel my subscription?](faq/how-can-i-cancel-my-subscription.md)
 * [How do I get a refund?](faq/how-do-i-get-a-refund.md)
-* [How to cancel your subscription](faq/how-to-cancel-your-subscription.md)
