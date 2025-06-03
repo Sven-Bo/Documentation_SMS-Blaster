@@ -16,6 +16,7 @@
 * [How do I warm up my SIM card](guides/how-do-i-warm-up-my-sim-card.md)
 * [Settings Overview](guides/settings-overview.md)
 * [How to use placeholders](guides/how-to-use-placeholders.md)
+* [How to use spintext](guides/how-to-use-spintext.md)
 * [How to use the phone number validator](guides/how-to-use-the-phone-number-validator.md)
 * [How to use the phone number converter](guides/how-to-use-the-phone-number-converter.md)
 * [How to send the same SMS to multiple receivers](guides/how-to-send-the-same-sms-to-multiple-receivers.md)
