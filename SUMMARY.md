@@ -25,6 +25,10 @@
 * [How to set custom delays between messages](guides/how-to-set-custom-delays-between-messages.md)
 * [How does SMS Blaster send SMS from my phone, and what’s the cost](guides/how-does-sms-blaster-send-sms-from-my-phone-and-whats-the-cost.md)
 
+***
+
+* [How to autofill numbers or messages into more cells](how-to-autofill-numbers-or-messages-into-more-cells.md)
+
 ## 🛠️ Troubleshooting
 
 * [The SMS Blaster shows a success message in Excel, but the SMS are not actually sent](troubleshooting/the-sms-blaster-shows-a-success-message-in-excel-but-the-sms-are-not-actually-sent.md)
