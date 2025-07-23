@@ -24,10 +24,7 @@
 * [How to send SMS from two or more cell phones](guides/how-to-send-sms-from-two-or-more-cell-phones.md)
 * [How to set custom delays between messages](guides/how-to-set-custom-delays-between-messages.md)
 * [How does SMS Blaster send SMS from my phone, and what’s the cost](guides/how-does-sms-blaster-send-sms-from-my-phone-and-whats-the-cost.md)
-
-***
-
-* [How to autofill numbers or messages into more cells](how-to-autofill-numbers-or-messages-into-more-cells.md)
+* [How to autofill numbers or messages into more cells](guides/how-to-autofill-numbers-or-messages-into-more-cells.md)
 
 ## 🛠️ Troubleshooting
 
@@ -35,10 +32,8 @@
 * [My SMS is marked as sent on my phone but the recipient does not receive it](troubleshooting/my-sms-is-marked-as-sent-on-my-phone-but-the-recipient-does-not-receive-it.md)
 * [Unable to click on buttons in the SMS Blaster](troubleshooting/unable-to-click-on-buttons-in-the-sms-blaster.md)
 * [Pushbullet PRO Account Upgrade Issues](troubleshooting/pushbullet-pro-account-upgrade-issues.md)
-
-***
-
-* [Resolving the “OLE Automation Error”](resolving-the-ole-automation-error.md)
+* [Resolving the “OLE Automation Error”](troubleshooting/resolving-the-ole-automation-error.md)
+* [Message gets split into multiple cells when pasting](troubleshooting/message-gets-split-into-multiple-cells-when-pasting.md)
 
 ## ⁉️ FAQ
 
