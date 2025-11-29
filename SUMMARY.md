@@ -50,3 +50,5 @@
 * [Can I use an eSIM?](faq/can-i-use-an-esim.md)
 * [How can I cancel my subscription?](faq/how-can-i-cancel-my-subscription.md)
 * [How do I get a refund?](faq/how-do-i-get-a-refund.md)
+* [How to manage devices linked to your license](faq/how-to-manage-devices-linked-to-your-license.md)
+* [How to add extra devices to your license](faq/how-to-add-extra-devices-to-your-license.md)
